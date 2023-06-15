@@ -1,0 +1,45 @@
+C:\Users\80232126F\Desktop\Proyecyo C\jsonTo\bin\Debug\net7.0\jsonTo.exe
+C:\Users\80232126F\Desktop\Proyecyo C\jsonTo\bin\Debug\net7.0\jsonTo.deps.json
+C:\Users\80232126F\Desktop\Proyecyo C\jsonTo\bin\Debug\net7.0\jsonTo.runtimeconfig.json
+C:\Users\80232126F\Desktop\Proyecyo C\jsonTo\bin\Debug\net7.0\jsonTo.dll
+C:\Users\80232126F\Desktop\Proyecyo C\jsonTo\bin\Debug\net7.0\jsonTo.pdb
+C:\Users\80232126F\Desktop\Proyecyo C\jsonTo\obj\Debug\net7.0\jsonTo.csproj.AssemblyReference.cache
+C:\Users\80232126F\Desktop\Proyecyo C\jsonTo\obj\Debug\net7.0\jsonTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\80232126F\Desktop\Proyecyo C\jsonTo\obj\Debug\net7.0\jsonTo.AssemblyInfoInputs.cache
+C:\Users\80232126F\Desktop\Proyecyo C\jsonTo\obj\Debug\net7.0\jsonTo.AssemblyInfo.cs
+C:\Users\80232126F\Desktop\Proyecyo C\jsonTo\obj\Debug\net7.0\jsonTo.csproj.CoreCompileInputs.cache
+C:\Users\80232126F\Desktop\Proyecyo C\jsonTo\obj\Debug\net7.0\jsonTo.dll
+C:\Users\80232126F\Desktop\Proyecyo C\jsonTo\obj\Debug\net7.0\refint\jsonTo.dll
+C:\Users\80232126F\Desktop\Proyecyo C\jsonTo\obj\Debug\net7.0\jsonTo.pdb
+C:\Users\80232126F\Desktop\Proyecyo C\jsonTo\obj\Debug\net7.0\jsonTo.genruntimeconfig.cache
+C:\Users\80232126F\Desktop\Proyecyo C\jsonTo\obj\Debug\net7.0\ref\jsonTo.dll
+C:\Users\80232126F\Desktop\BotsAWS\jsonTo\bin\Debug\net7.0\jsonTo.exe
+C:\Users\80232126F\Desktop\BotsAWS\jsonTo\bin\Debug\net7.0\jsonTo.deps.json
+C:\Users\80232126F\Desktop\BotsAWS\jsonTo\bin\Debug\net7.0\jsonTo.runtimeconfig.json
+C:\Users\80232126F\Desktop\BotsAWS\jsonTo\bin\Debug\net7.0\jsonTo.dll
+C:\Users\80232126F\Desktop\BotsAWS\jsonTo\bin\Debug\net7.0\jsonTo.pdb
+C:\Users\80232126F\Desktop\BotsAWS\jsonTo\obj\Debug\net7.0\jsonTo.csproj.AssemblyReference.cache
+C:\Users\80232126F\Desktop\BotsAWS\jsonTo\obj\Debug\net7.0\jsonTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\80232126F\Desktop\BotsAWS\jsonTo\obj\Debug\net7.0\jsonTo.AssemblyInfoInputs.cache
+C:\Users\80232126F\Desktop\BotsAWS\jsonTo\obj\Debug\net7.0\jsonTo.AssemblyInfo.cs
+C:\Users\80232126F\Desktop\BotsAWS\jsonTo\obj\Debug\net7.0\jsonTo.csproj.CoreCompileInputs.cache
+C:\Users\80232126F\Desktop\BotsAWS\jsonTo\obj\Debug\net7.0\jsonTo.dll
+C:\Users\80232126F\Desktop\BotsAWS\jsonTo\obj\Debug\net7.0\refint\jsonTo.dll
+C:\Users\80232126F\Desktop\BotsAWS\jsonTo\obj\Debug\net7.0\jsonTo.pdb
+C:\Users\80232126F\Desktop\BotsAWS\jsonTo\obj\Debug\net7.0\jsonTo.genruntimeconfig.cache
+C:\Users\80232126F\Desktop\BotsAWS\jsonTo\obj\Debug\net7.0\ref\jsonTo.dll
+C:\Users\80232126F\Documents\BotsAWS\jsonTo\bin\Debug\net7.0\jsonTo.exe
+C:\Users\80232126F\Documents\BotsAWS\jsonTo\bin\Debug\net7.0\jsonTo.deps.json
+C:\Users\80232126F\Documents\BotsAWS\jsonTo\bin\Debug\net7.0\jsonTo.runtimeconfig.json
+C:\Users\80232126F\Documents\BotsAWS\jsonTo\bin\Debug\net7.0\jsonTo.dll
+C:\Users\80232126F\Documents\BotsAWS\jsonTo\bin\Debug\net7.0\jsonTo.pdb
+C:\Users\80232126F\Documents\BotsAWS\jsonTo\obj\Debug\net7.0\jsonTo.csproj.AssemblyReference.cache
+C:\Users\80232126F\Documents\BotsAWS\jsonTo\obj\Debug\net7.0\jsonTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\80232126F\Documents\BotsAWS\jsonTo\obj\Debug\net7.0\jsonTo.AssemblyInfoInputs.cache
+C:\Users\80232126F\Documents\BotsAWS\jsonTo\obj\Debug\net7.0\jsonTo.AssemblyInfo.cs
+C:\Users\80232126F\Documents\BotsAWS\jsonTo\obj\Debug\net7.0\jsonTo.csproj.CoreCompileInputs.cache
+C:\Users\80232126F\Documents\BotsAWS\jsonTo\obj\Debug\net7.0\jsonTo.dll
+C:\Users\80232126F\Documents\BotsAWS\jsonTo\obj\Debug\net7.0\refint\jsonTo.dll
+C:\Users\80232126F\Documents\BotsAWS\jsonTo\obj\Debug\net7.0\jsonTo.pdb
+C:\Users\80232126F\Documents\BotsAWS\jsonTo\obj\Debug\net7.0\jsonTo.genruntimeconfig.cache
+C:\Users\80232126F\Documents\BotsAWS\jsonTo\obj\Debug\net7.0\ref\jsonTo.dll

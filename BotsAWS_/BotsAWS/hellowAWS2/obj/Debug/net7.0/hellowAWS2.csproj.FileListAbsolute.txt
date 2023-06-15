@@ -1,0 +1,60 @@
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\obj\Debug\net7.0\hellowAWS2.csproj.AssemblyReference.cache
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\obj\Debug\net7.0\hellowAWS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\obj\Debug\net7.0\hellowAWS2.AssemblyInfoInputs.cache
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\obj\Debug\net7.0\hellowAWS2.AssemblyInfo.cs
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\obj\Debug\net7.0\hellowAWS2.csproj.CoreCompileInputs.cache
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\bin\Debug\net7.0\hellowAWS2.exe
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\bin\Debug\net7.0\hellowAWS2.deps.json
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\bin\Debug\net7.0\hellowAWS2.runtimeconfig.json
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\bin\Debug\net7.0\hellowAWS2.dll
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\bin\Debug\net7.0\hellowAWS2.pdb
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\bin\Debug\net7.0\AWSSDK.S3.dll
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\obj\Debug\net7.0\hellowAWS2.csproj.CopyComplete
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\obj\Debug\net7.0\hellowAWS2.dll
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\obj\Debug\net7.0\refint\hellowAWS2.dll
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\obj\Debug\net7.0\hellowAWS2.pdb
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\obj\Debug\net7.0\hellowAWS2.genruntimeconfig.cache
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\obj\Debug\net7.0\ref\hellowAWS2.dll
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\80232126F\Desktop\Proyecyo C\hellowAWS2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\bin\Debug\net7.0\hellowAWS2.exe
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\bin\Debug\net7.0\hellowAWS2.deps.json
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\bin\Debug\net7.0\hellowAWS2.runtimeconfig.json
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\bin\Debug\net7.0\hellowAWS2.dll
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\bin\Debug\net7.0\hellowAWS2.pdb
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\bin\Debug\net7.0\AWSSDK.S3.dll
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.csproj.AssemblyReference.cache
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.AssemblyInfoInputs.cache
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.AssemblyInfo.cs
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.csproj.CoreCompileInputs.cache
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.csproj.CopyComplete
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.dll
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\obj\Debug\net7.0\refint\hellowAWS2.dll
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.pdb
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.genruntimeconfig.cache
+C:\Users\80232126F\Desktop\BotsAWS\hellowAWS2\obj\Debug\net7.0\ref\hellowAWS2.dll
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\bin\Debug\net7.0\hellowAWS2.exe
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\bin\Debug\net7.0\hellowAWS2.deps.json
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\bin\Debug\net7.0\hellowAWS2.runtimeconfig.json
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\bin\Debug\net7.0\hellowAWS2.dll
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\bin\Debug\net7.0\hellowAWS2.pdb
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\bin\Debug\net7.0\AWSSDK.S3.dll
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.csproj.AssemblyReference.cache
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.AssemblyInfoInputs.cache
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.AssemblyInfo.cs
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.csproj.CoreCompileInputs.cache
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.csproj.CopyComplete
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.dll
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\obj\Debug\net7.0\refint\hellowAWS2.dll
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.pdb
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\obj\Debug\net7.0\hellowAWS2.genruntimeconfig.cache
+C:\Users\80232126F\Documents\BotsAWS\hellowAWS2\obj\Debug\net7.0\ref\hellowAWS2.dll
